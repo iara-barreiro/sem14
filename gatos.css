@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+.navbar,
+.row {
+    background-color: rgb(250, 219, 234);
+}
+
+.container {
+    display: flex;
+}
+
+.lista ul {
+    margin-right: 20px;
+}
+
+.carousel {
+    text-align: center; }
+
+
+.lista li {
+    margin: 0;
+    width: 250px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
